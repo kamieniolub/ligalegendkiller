@@ -1,5 +1,5 @@
-# ligalegendkiller
-aplikacja do zabijania procesu lola dodaj do 
+
+chuhjowy skrypt bat do zabijania procesu lola
 
 
 WAŻNE !!! C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup plik znikaniebatu.vbs  a plik niszczycielzabawy.bat do C:\Program Files\ !!! aby zadziałało co 5min wyłącza proces lola  
